@@ -16,7 +16,7 @@ function App() {
         />
       </div>
       <div class='row'>
-        <div class='collunm'>
+        <div class='bug-alig'>
           <img
               src={bug} 
               alt='Bug andando'
@@ -42,20 +42,20 @@ function App() {
 <div class='treno'>
       <h1 class='texto'> Feliz Natal</h1>
 
-        <div class='row'> 
-        <img
-            src={arvore} 
-            alt='treno de papai noel'
-          />
+        <div class='noel'> 
           <img
-            src={treno} 
-            alt='treno de papai noel'
-          />
-          <img
-            class='tribos'
-            src={poloNorte} 
-            alt='treno de papai noel'
-          />
+              src={arvore} 
+              alt='treno de papai noel'
+            />
+            <img
+              src={treno} 
+              alt='treno de papai noel'
+            />
+            <img
+              class='tribos'
+              src={poloNorte} 
+              alt='treno de papai noel'
+            />
         </div>
 
 
@@ -67,7 +67,7 @@ function App() {
       <div class="snow layer3 a"></div>
       <div class="snow layer3"></div>
 
-      <div class='collunm'>
+      <div class='bug-alig'>
           <img
               src={bug} 
               alt='Bug andando'

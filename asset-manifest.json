@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/cartao-de-natal/static/css/main.e4f703e3.chunk.css",
+    "main.js": "/cartao-de-natal/static/js/main.bf9b8846.chunk.js",
+    "main.js.map": "/cartao-de-natal/static/js/main.bf9b8846.chunk.js.map",
+    "runtime-main.js": "/cartao-de-natal/static/js/runtime-main.233daba9.js",
+    "runtime-main.js.map": "/cartao-de-natal/static/js/runtime-main.233daba9.js.map",
+    "static/js/2.777f667a.chunk.js": "/cartao-de-natal/static/js/2.777f667a.chunk.js",
+    "static/js/2.777f667a.chunk.js.map": "/cartao-de-natal/static/js/2.777f667a.chunk.js.map",
+    "static/js/3.e370898e.chunk.js": "/cartao-de-natal/static/js/3.e370898e.chunk.js",
+    "static/js/3.e370898e.chunk.js.map": "/cartao-de-natal/static/js/3.e370898e.chunk.js.map",
+    "index.html": "/cartao-de-natal/index.html",
+    "static/css/main.e4f703e3.chunk.css.map": "/cartao-de-natal/static/css/main.e4f703e3.chunk.css.map",
+    "static/js/2.777f667a.chunk.js.LICENSE.txt": "/cartao-de-natal/static/js/2.777f667a.chunk.js.LICENSE.txt",
+    "static/media/arvore.f50a50e7.gif": "/cartao-de-natal/static/media/arvore.f50a50e7.gif",
+    "static/media/bug.d03baad9.gif": "/cartao-de-natal/static/media/bug.d03baad9.gif",
+    "static/media/header.b0c52859.png": "/cartao-de-natal/static/media/header.b0c52859.png",
+    "static/media/polo-norte.9319bf4b.gif": "/cartao-de-natal/static/media/polo-norte.9319bf4b.gif",
+    "static/media/treno.846e1858.gif": "/cartao-de-natal/static/media/treno.846e1858.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.233daba9.js",
+    "static/js/2.777f667a.chunk.js",
+    "static/css/main.e4f703e3.chunk.css",
+    "static/js/main.bf9b8846.chunk.js"
+  ]
+}

@@ -1,4 +1,8 @@
-html,body {
+html, body
+{
+  position: fixed;
+  width:100%;
+  height:100%;
   margin: 0;
   padding: 0;
 }
@@ -131,6 +135,10 @@ $s3:"";
   border-width: 5px;
 }
 
+.imagem {
+  align-self: center;
+}
+
 @media only screen and (max-width: 500px) {
   .noel {
     display: flex;
@@ -139,5 +147,9 @@ $s3:"";
 
   .bug-alig {
     display: none;
-}
+  }
+
+  html, body {
+    position: absolute;
+  }
 }

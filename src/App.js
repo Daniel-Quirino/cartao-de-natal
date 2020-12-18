@@ -11,7 +11,7 @@ function App() {
       <div class='border-div'>
         <img
             src={header} 
-            alt='Bug andando'
+            alt='Header da página com a junção das fotos de varias tribos e eventos da dti'
             class='header'
         />
       </div>
@@ -45,16 +45,19 @@ function App() {
         <div class='noel'> 
           <img
               src={arvore} 
-              alt='treno de papai noel'
+              alt='arvore de natal'
+              class='imagem'
             />
             <img
               src={treno} 
               alt='treno de papai noel'
+              class='imagem'
             />
             <img
               class='tribos'
               src={poloNorte} 
               alt='treno de papai noel'
+              class='imagem'
             />
         </div>
 

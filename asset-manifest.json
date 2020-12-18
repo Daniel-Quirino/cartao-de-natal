@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cartao-de-natal/static/css/main.b043dfed.chunk.css",
+    "main.css": "/cartao-de-natal/static/css/main.afac063c.chunk.css",
     "main.js": "/cartao-de-natal/static/js/main.cdb515b2.chunk.js",
     "main.js.map": "/cartao-de-natal/static/js/main.cdb515b2.chunk.js.map",
     "runtime-main.js": "/cartao-de-natal/static/js/runtime-main.ae7345c1.js",
@@ -10,7 +10,7 @@
     "static/js/3.ba7f29bb.chunk.js": "/cartao-de-natal/static/js/3.ba7f29bb.chunk.js",
     "static/js/3.ba7f29bb.chunk.js.map": "/cartao-de-natal/static/js/3.ba7f29bb.chunk.js.map",
     "index.html": "/cartao-de-natal/index.html",
-    "static/css/main.b043dfed.chunk.css.map": "/cartao-de-natal/static/css/main.b043dfed.chunk.css.map",
+    "static/css/main.afac063c.chunk.css.map": "/cartao-de-natal/static/css/main.afac063c.chunk.css.map",
     "static/js/2.e820753b.chunk.js.LICENSE.txt": "/cartao-de-natal/static/js/2.e820753b.chunk.js.LICENSE.txt",
     "static/media/arvore.f50a50e7.gif": "/cartao-de-natal/static/media/arvore.f50a50e7.gif",
     "static/media/bug.d03baad9.gif": "/cartao-de-natal/static/media/bug.d03baad9.gif",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.ae7345c1.js",
     "static/js/2.e820753b.chunk.js",
-    "static/css/main.b043dfed.chunk.css",
+    "static/css/main.afac063c.chunk.css",
     "static/js/main.cdb515b2.chunk.js"
   ]
 }
